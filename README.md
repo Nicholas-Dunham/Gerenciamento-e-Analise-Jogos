@@ -58,7 +58,7 @@ pip install pandas beautifulsoup4 requests sqlalchemy sqlite3
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/Gerenciamento-e-Analise-Jogos.git
+git clone https://github.com/Nicholas-Dunham/Gerenciamento-e-Analise-Jogos.git
 
 2. Acesse a pasta do projeto:
 
